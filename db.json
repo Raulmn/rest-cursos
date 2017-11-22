@@ -1,0 +1,9 @@
+{
+  "cursos": [
+    {"name": "Angular 2", "max_alumnos": "30", "fecha": "11/23/2017 12:11:04 PM"},
+    {"name": "Angular 4", "max_alumnos": "20", "fecha": "11/23/2017 12:11:04 PM"}
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
